@@ -22,3 +22,8 @@ the file simulation.m is a Matlab file that simulates the cell growth
 it outputs simulated data D10.dat, D4.dat, D1.dat
 
 the file plotting.m is a Matlab file that plots Figs. 1-3, based on the data files
+
+the file anova.m is a Matlab file that conducts an ANOVA test 
+
+the file parameter_estimation.m is a Matlab file that use maximum likelihood
+method to estimate three parameters
